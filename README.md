@@ -5,7 +5,7 @@ This project uses Python and OpenCV to detect motion from a live webcam feed. It
 ## 📌 Features
 
 - Detects motion using frame differencing
-- Highlights moving objects with rectangles
+- Highlights moving objects with rectangles 
 - Displays live camera feed
 - Easy to run with Python
 
